@@ -5,6 +5,7 @@ This project is designed for open-source maintainers to reduce the burden of cod
 It helps maintainers triage issues, review pull requests (PRs), manage version releases, and continuously guarantee code quality and project security for open source repositories.
 
 The tool automates repetitive maintenance tasks, lowers the workload of maintainers, and helps stable open-source projects operate sustainably.
+- Add automatic issue classification function
 
 ## 项目介绍
 本项目面向开源维护者，旨在减轻代码审查与日常维护负担。
